@@ -1,0 +1,18 @@
+body{
+    font-size: 100%;
+    background-color: red;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.container{
+    width: 960px;
+    background-color: #fff;
+}
+
+img:hover{
+    
+}
